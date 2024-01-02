@@ -1,0 +1,14 @@
+﻿  odev.cpp
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(159,30): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(173,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(177,102): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(185,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(186,26): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(221,41): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(259,39): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(268,30): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(272,75): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(284,26): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(181): warning C4715: 'timeCalculation': tüm denetim yolları değer döndürmez
+C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\odev.cpp(169): warning C4715: 'periodCalculation': tüm denetim yolları değer döndürmez
+  makineOdeviNesneAlgoritma.vcxproj -> C:\Users\Lenovo\Desktop\makineOdeviNesneAlgoritma\makineOdeviNesneAlgoritma\Debug\makineOdeviNesneAlgoritma.exe
